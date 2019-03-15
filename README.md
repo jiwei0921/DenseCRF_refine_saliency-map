@@ -3,7 +3,7 @@ This is a ready-to-use python file for refine saliency maps using dense CRF. If 
 
 ## Citation 
 ```
-@article{Saliency-Evaluation-Toolbox,
+@article{Saliency-Refinement-DenseCRF,
     Author = {Wei Ji},
     Title = {The application of the DenseCRF for saliency detection.},
     Journal = {https://github.com/jiwei0921/DenseCRF_refine_saliency-map/},
