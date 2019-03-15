@@ -5,8 +5,8 @@ This is a ready-to-use python file for refine saliency maps using dense CRF. If 
 ```
 @article{Saliency-Evaluation-Toolbox,
     Author = {Wei Ji},
-    Title = {Evaluation Toolbox for Salient Object Detection.},
-    Journal = {https://github.com/jiwei0921/Saliency-Evaluation-Toolbox/},
+    Title = {The application of the DenseCRF for saliency detection.},
+    Journal = {https://github.com/jiwei0921/DenseCRF_refine_saliency-map/},
     Year = {2019}
 }
 ```
