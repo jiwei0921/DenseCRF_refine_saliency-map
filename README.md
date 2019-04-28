@@ -1,5 +1,5 @@
 # DenseCRF_refine_saliency-map
-This is a ready-to-use python file for refine saliency maps using dense CRF. If you want to know more about CRF, you can refer to [here](http://graphics.stanford.edu/projects/drf/).
+This is a ready-to-use python file for refine saliency maps using dense CRF. If you want to know more about CRF, you can refer to [here](http://graphics.stanford.edu/projects/drf/).    
 
 ## Citation 
 ```
