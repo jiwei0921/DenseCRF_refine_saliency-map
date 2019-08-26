@@ -23,6 +23,13 @@ This is a ready-to-use python file for refine saliency maps using dense CRF. If 
 3. run densecrf_sal.py
 4. then, you can see the fine results in the output file.
 
+### Maybe Bug
+1. pydensecrf/densecrf/include/Eigen/Core:22:10: **fatal error: ‘complex’ file not found** 
+[#include](https://blog.csdn.net/u011599639/article/details/83934856)    
+^~~~~~~~~    
+1 warning and 1 error generated.    
+**Command**: ``` conda install -c conda-forge pydensecrf ```
+
 ## Related Citations
 1. https://github.com/Andrew-Qibin/dss_crf
 
