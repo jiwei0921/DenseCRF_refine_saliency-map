@@ -21,7 +21,7 @@ This is a ready-to-use python file for refine saliency maps using dense CRF. If 
 1. put your input (.png) and saliency maps (.png) in images and predictions files, respectively. 
 2. set your input_path, sal_path and output_path in densecrf_sal.py.
 3. run densecrf_sal.py
-4. then, you can see the fine results in the output file.
+4. then, you can see the fine results in the output file.  
 
 ### Maybe Bug
 1. pydensecrf/densecrf/include/Eigen/Core:22:10: **fatal error: ‘complex’ file not found**       
