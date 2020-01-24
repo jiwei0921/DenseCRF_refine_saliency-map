@@ -10,7 +10,7 @@ This is a ready-to-use python file for refine saliency maps using dense CRF. If 
     Year = {2019}
 }
 ```
-
+   
 ## Dependencies
 ***pydensecrf***: This package depends on ***pydensecrf***, available via ``` pip install pydensecrf ```.   
 ***opencv3***: This package depends on ***cv2***, available via ``` pip install opencv-python ```.    
@@ -27,7 +27,7 @@ This is a ready-to-use python file for refine saliency maps using dense CRF. If 
 1. pydensecrf/densecrf/include/Eigen/Core:22:10: **fatal error: ‘complex’ file not found**       
 [#include](https://blog.csdn.net/u011599639/article/details/83934856)    
 ^~~~~~~~~    
-1 warning and 1 error generated.    
+1 warning and 1 error generated.        
 
 **Command**: ``` conda install -c conda-forge pydensecrf ```
 
