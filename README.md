@@ -12,8 +12,9 @@ This is a ready-to-use python file for refine saliency maps using dense CRF. If 
 ```
     
 ## Dependencies
-***environment***: You need to run ```conda create -n SOD python=3.5 ```, because more than 3.5+ is incompatible with pydensecrf.
-***pydensecrf***: This package depends on ***pydensecrf***, available via ``` pip install pydensecrf ```.   
+***environment***: You need to run ```conda create -n SOD python=3.7 ```.
+***pydensecrf***: This package depends on ***pydensecrf***, available via ``` pip install git+https://github.com/lucasb-eyer/pydensecrf.git 
+```.   
 ***opencv3***: This package depends on ***cv2***, available via ``` pip install opencv-python ```.    
 ***numpy***: This package depends on ***numpy***, available via ``` pip install numpy ```.       
 
