@@ -12,17 +12,16 @@ This is a ready-to-use python file for refine saliency maps using dense CRF. If 
 ```
     
 ## Dependencies
-***environment***: You need to run ```conda create -n SOD python=3.7 ```.
-***pydensecrf***: This package depends on ***pydensecrf***, available via ``` pip install git+https://github.com/lucasb-eyer/pydensecrf.git 
-```.   
+***environment***: You need to run ```conda create -n SOD python=3.7 ```.  
+***pydensecrf***: This package depends on ***pydensecrf***, available via ``` pip install git+https://github.com/lucasb-eyer/pydensecrf.git```.   
 ***opencv3***: This package depends on ***cv2***, available via ``` pip install opencv-python ```.    
 ***numpy***: This package depends on ***numpy***, available via ``` pip install numpy ```.       
 
 ## Usage
-### Note : Use Python 3.5
+### Note : Use Python 3.7
 1. put your input (.png) and saliency maps (.png) in images and predictions files, respectively. 
 2. set your input_path, sal_path and output_path in densecrf_sal.py.
-3. run densecrf_sal.py
+3. run ```python densecrf_sal.py```
 4. then, you can see the fine results in the output file.  
 
 ### Maybe Bug
